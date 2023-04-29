@@ -1,0 +1,13 @@
+{
+  "1": {
+    "artistId": 1,
+    "name": "Red Hot Chili Peppers",
+    "albums": {
+      "1": {
+        "albumId": 1,
+        "name": "Stadium Arcadium",
+        "artistId": 1
+      }
+    }
+  }
+}
